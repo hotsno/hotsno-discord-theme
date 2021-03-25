@@ -1,5 +1,7 @@
 # Installation
 
+Note: Credit goes to https://github.com/puckzxz/NotAnotherAnimeTheme for making 99% of this theme. I just modified a few things to better fit my taste.
+
 ## BetterDiscord
 
 1. Open [this](https://raw.githubusercontent.com/hotsno/hotsno-discord-theme/main/bd/HotsnoBDTheme.theme.css) link, press Ctrl-S, and save to your `C:\Users\YOUR_USERNAME\AppData\Roaming\betterdiscord` folder.
