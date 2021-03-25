@@ -1,1 +1,1 @@
-# hotsno-bd-theme
+# hotsno-discord-theme
