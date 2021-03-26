@@ -22,3 +22,6 @@ Credit goes to https://github.com/puckzxz/NotAnotherAnimeTheme for making 99% of
 1. Install the [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension or look for an alternative to it for your browser.
 2. Go to [this](https://greasyfork.org/en/scripts/423600-hotsno-discord-web-theme) link and press `Install`.
 3. Done.
+
+## Example
+![Example](https://i.imgur.com/CpelXrS.png)
