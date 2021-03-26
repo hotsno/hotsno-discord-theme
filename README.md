@@ -1,6 +1,6 @@
 # Installation
 
-Note: Credit goes to https://github.com/puckzxz/NotAnotherAnimeTheme for making 99% of this theme. I just modified a few things to better fit my taste.
+Credit goes to https://github.com/puckzxz/NotAnotherAnimeTheme for making 99% of this theme. I just modified a few things to better fit my taste.
 
 ## BetterDiscord
 
