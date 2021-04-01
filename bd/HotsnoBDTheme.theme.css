@@ -170,6 +170,9 @@
   width: 28px;
   transition: width 0.1s ease-in-out;
 }
+.theme-dark .searchBar-3dMhjb {
+  background-color: rgba(23, 23, 23, 0.9);
+}
 
 /* Pill unread bar */
 .newMessagesBar-265mhP {
@@ -207,19 +210,6 @@
   opacity: 1;
 }
 
-/* Custom server name */
-[data-guild-id="653624487530463233"] > .name-1jkAdW {
-  visibility: hidden;
-  position: relative;
-}
-[data-guild-id="653624487530463233"] > .name-1jkAdW:after {
-  visibility: visible;
-  position: absolute;
-  top: 0;
-  left: 0;
-  content: "Telegram Anime Chat";
-}
-
 /* Hover top buttons 
 .toolbar-1t6TWx {
     opacity: 0;
@@ -238,7 +228,7 @@
   display: none;
 }
 
-/* Ctrl-T fix */
+/* Ctrl-K fix */
 .scroller-zPkAnE {
   background-color: rgba(22, 22, 22, 0.9);
 }
@@ -265,9 +255,15 @@
 .clickable-3rdHwn[aria-label="Toggle Servers"] {
   display: none;
 }
-.toolbar-1t6TWx a {display:none;}
+.toolbar-1t6TWx a {
+  display:none;
+}
+
+.circleIconButton-1QV--U[aria-label="Explore Public Servers"] {
+  display:none;
+}
 
 /* Channel tabs color fix */
 .channelTabs-tabContainer {
-  background: rgba(0, 0, 0, 0.6);
+  background: var(--main-transparency) !important;
 }
